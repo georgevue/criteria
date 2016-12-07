@@ -7,7 +7,7 @@ advanced diagnostic imaging.
 Our website will detail our efforts in bringing high-quality evidence-based
 criteria for healthcare providers, researchers, and companies to use.
 
-## Clincal Areas Covered
+## Clinical Areas Covered
 
 CMS has designated eight priority clinical areas, based on the
 significance and the high prevalence of certain
