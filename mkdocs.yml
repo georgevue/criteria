@@ -1,0 +1,8 @@
+site_name: Criteria
+#theme: 'material'
+theme: null
+theme_dir: 'mkdocs-material/material/'
+docs_dir: 'content'
+site_dir: 'site'
+pages:
+- Home: index.md
