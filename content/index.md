@@ -1,6 +1,6 @@
 # Welcome 
 
-We are a qualified Provider-Led Entity” (qPLE) approved to provide appropriate
+We are a qualified Provider-Led Entity (qPLE) approved to provide appropriate
 use criteria (AUC) under the Medicare Appropriate Use Criteria program for
 advanced diagnostic imaging.
 
