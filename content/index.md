@@ -1,6 +1,11 @@
 # Welcome 
 
+We are a qualified Provider-Led Entity” (qPLE) approved to provide appropriate
+use criteria (AUC) under the Medicare Appropriate Use Criteria program for
+advanced diagnostic imaging.
 
+Our website will detail our efforts in bringing high-quality evidence-based
+criteria for healthcare providers, researchers, and companies to use.
 
 ## Clincal Areas Covered
 
@@ -16,15 +21,17 @@ Our goal is to provide the most relevant criteria for these clinical areas
 * Headache (traumatic and non-traumatic)
 * Hip pain
 * Low back pain
-* Shoulder pain (to include suspected rotator cuff injury)
-* Cancer of the lung (primary or metastatic, suspected or diagnosed)
+* Shoulder pain (including suspected rotator cuff injury)
+* Lung cancer (primary or metastatic, suspected or diagnosed)
 * Cervical or neck pain
 
-## Version Control
+## License
 
-Each criteria will be stored in a public repository using version control.
-Proposed updates will be requested, and acceptance will be based on subcommittee
-approval.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is
+licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+4.0 International License</a>.
 
-    Proposed update -> Subcommitte Review -> Public Repository Updated
 

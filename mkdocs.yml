@@ -5,4 +5,7 @@ theme_dir: 'mkdocs-material/material/'
 docs_dir: 'content'
 site_dir: 'site'
 pages:
-- Home: index.md
+- Welcome: index.md
+- Usage: usage.md
+- Criteria: criteria.md
+- Team: team.md
